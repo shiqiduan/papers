@@ -17,6 +17,12 @@ A repository for good papers to read.
 
       软件开发的实践经验不存在银弹，最重要的是持续有节奏的输出价值.
 
+5. https://www.evernote.com/shard/s125/u/0/sh/7f0fa7e3-fe6b-42bc-bb94-f9d52b334c70/2ac6b5aa9ff908e381cb548a8170d555
+
+   讨论GFS里面的数据一致性问题.
+
+6. 
+
 
 
 ## 顶会
