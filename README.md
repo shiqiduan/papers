@@ -21,7 +21,13 @@ A repository for good papers to read.
 
    讨论GFS里面的数据一致性问题.
 
-6. 
+6. http://www.cs.columbia.edu/~nahum/w6998/papers/ton97-timing-wheels.pdf
+
+   1. 时间轮，一种定时设施的实现
+
+7. https://www.cnblogs.com/hzmark/p/ubiq.html
+
+   1. google内部使用的，可扩展支持容错的日志处理框架
 
 
 
