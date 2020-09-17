@@ -28,6 +28,21 @@ A repository for good papers to read.
 7. https://www.cnblogs.com/hzmark/p/ubiq.html
 
    1. google内部使用的，可扩展支持容错的日志处理框架
+   2. 跟spark、storm、flink等的区别在于，ubiq支持跨数据中心的容错能力
+   3. 支持exactly-once
+   4. 在未来，我们计划为Ubiq开发面向服务的架构，以实现更有效的访问控制，隔离和资源管理。 我们还在探索使用机器学习模型进行精细级资源管理和预测控制。
+
+8. [TODO] The Chubby lock service for loosely-coupled distributed systems -zookeeper
+
+9. [TODO] Finding a Needle in Haystack: Facebook's Photo Storage
+
+10. [TODO] Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing
+
+    1. spark
+
+11. [TODO] Spanner: Google's Globally-Distributed Database
+
+12. [TODO] Dynamo: Amazon’s Highly Available Key-value Store
 
 
 
