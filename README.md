@@ -45,6 +45,10 @@ A repository for good papers to read.
 12. [TODO] Dynamo: Amazon’s Highly Available Key-value Store
 
 
+## 机器学习
+
+1. [机器学习系统隐藏的技术债务](https://www.cnblogs.com/yymn/articles/5037396.html)
+
 
 ## 顶会
 
